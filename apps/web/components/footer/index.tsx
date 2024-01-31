@@ -15,7 +15,7 @@ export const Footer: React.FC = () => {
     <footer className="footer">
       <div className="wrapper">
         <section className="footer-about">
-          <h3 className="logo">FS</h3>
+          <h3 className="logo">NYANCHOGA</h3>
           <p className="footer-about-description">
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Autem
             aliquid inventore minus necessitatibus voluptatibus enim, maiores
@@ -73,7 +73,7 @@ export const Footer: React.FC = () => {
             target="_blank"
             rel="noreferrer"
           >
-            sifatulrabbi
+         NYANCHOGAH
           </a>
         </span>
       </section>
